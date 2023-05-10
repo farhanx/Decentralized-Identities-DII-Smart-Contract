@@ -1,4 +1,4 @@
-# DecentralizedIdentities
+# Blockchain Based Decentralized Identities 
 A DID is a unique identifier that is globally unique and can be associated with an individual, organization, or thing.
 
 DID stands for Decentralized Identifier. It is a new type of identifier that is designed to enable self-sovereign digital identity. A DID is a unique identifier that is globally unique and can be associated with an individual, organization, or thing.
